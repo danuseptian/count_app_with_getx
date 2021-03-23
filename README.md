@@ -1,6 +1,6 @@
 # count_app_with_getx
 
-This is a counter app wrap with GetX State Management. More simple code and faster performance.
+This is a counter app wrap with GetX State Management. Simpler code and faster performance.
 
 I add a little bit feature:
 - decrement counter
