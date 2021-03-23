@@ -1,6 +1,12 @@
 # count_app_with_getx
 
-A new Flutter project.
+This is a counter app wrap with GetX State Management. More simple code and faster performance.
+I add a little bit feature:
+- decrease counter
+- reset counter
+
+![counter app](https://user-images.githubusercontent.com/71324740/112090735-b4522580-8bc6-11eb-8cdb-822d13c7c7fe.PNG)
+
 
 ## Getting Started
 
